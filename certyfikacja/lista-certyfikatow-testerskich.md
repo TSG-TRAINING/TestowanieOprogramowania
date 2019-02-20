@@ -5,7 +5,7 @@
 * [Foundation Level](https://www.istqb.org/certification-path-root/foundation-level/foundation-level-in-a-nutshell.html)
 * [Agile Tester Extension](https://www.istqb.org/certification-path-root/agile-tester-extension.html)
 * [Model-Based Tester Extension](https://www.istqb.org/certification-path-root/model-based-tester-extension/model-tester-extension-in-a-nutshell.html)
-* [Advanced Level Test Manager](https://www.istqb.org/certification-path-root/advanced-level/advanced-level-test-manager.html)
+* [Advanced Level Test Manager](https://www.tsg-training.co.uk/software-testing/istqb-advanced-test-manager)
 * [Advanced Level Test Analyst](https://www.istqb.org/certification-path-root/advanced-level/advanced-level-test-analyst.html)
 * [Advanced Level Technical Test Analyst](https://www.istqb.org/certification-path-root/advanced-level/advanced-level-technical-test-analyst.html)
 * [Advanced Level Security Tester](https://www.istqb.org/certification-path-root/advanced-security-tester.html)
